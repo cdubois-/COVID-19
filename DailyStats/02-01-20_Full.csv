@@ -1,0 +1,8 @@
+"Locality","DailyAvgNewCasesPast7Days","TotalCases","State","Date","TotalCases7DaysAgo","NewCasesPast7Days","FIPS-Code","PercentIncreaseTotalCasesPast7Days"
+"Maricopa","0","1","Arizona","2/1/20","0","1","04013","1"
+"Los Angeles","0","1","California","2/1/20","0","1","06037","1"
+"Orange","0","1","California","2/1/20","0","1","06059","1"
+"Santa Clara","0","1","California","2/1/20","0","1","06085","1"
+"Cook","0","2","Illinois","2/1/20","1","1","17031","100"
+"Suffolk","0","1","Massachusetts","2/1/20","0","1","25025","1"
+"King","0","1","Washington","2/1/20","1","0","53033","0"
